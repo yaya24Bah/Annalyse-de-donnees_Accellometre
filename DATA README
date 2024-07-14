@@ -1,0 +1,32 @@
+1. Titre : Reconnaissance d’activité à partir d’un seul accéléromètre monté sur la poitrine
+	Mis à jour en novembre 2013 , P. Casale, courriel : plcasale@ieee.org
+	
+2. Résumé : L’ensemble de données recueille des données à partir d’un accéléromètre portable monté sur la poitrine. Les données de l’accéléromètre non calibré sont recueillies auprès de 15 participants effectuant 7 activités. L’ensemble de données est destiné à des fins de recherche sur la reconnaissance des activités. Il pose des défis pour l’identification et l’authentification des personnes à l’aide de modèles de mouvement.
+
+3. Informations pertinentes
+   --- The dataset collects data from a wearable accelerometer mounted on the chest
+   --- Sampling frequency of the accelerometer: 52 Hz
+   --- Accelerometer Data are Uncalibrated
+   --- Number of Participants: 15
+   --- Number of Activities: 7
+   --- Data Format: CSV
+   --- L’ensemble de données recueille des données à partir d’un accéléromètre portable monté sur la poitrine
+   --- Fréquence d’échantillonnage de l’accéléromètre : 52 Hz
+   --- données de l’accéléromètre ne sont pas calibrées
+   --- Nombre de participants : 15
+   --- Nombre d’activités : 7
+   --- Format de données : CSV
+5. Documents de référence
+
+--- Casale, P. Pujol, O. et Radeva, P. 
+       « BeaStreamer-v0.1 : une nouvelle plateforme pour l’acquisition de données multi-capteurs dans les applications informatiques portables », 
+       CVCRD09, ISBN : 978-84-937261-1-9, 2009
+       Disponible sur https://www.researchgate.net/publication/257132489_BeaStreamer-v0.1_a_new_platform_for_Multi-Sensors_Data_Acquisition_in_Wearable_Computing_Applications?ev=prf_pub
+
+--- Casale, P. Pujol, O. et Radeva, P. 
+       Recognition_from_Accelerometer_Data_Using_a_Wearable_Device ?ev=prf_pub
+       
+  --- Casale, P. Pujol, O. et Radeva, P. 
+       « Personnalisation et vérification de l’utilisateur dans les systèmes portables utilisant des modèles de marche biométriques »
+       Informatique personnelle et ubiquitaire, 16(5), 563-580, 2012
+       Disponible sur https://www.researchgate.net/publication/227192676_Personalization_and_user_verification_in_wearable_systems_using_biometric_walking_patterns?ev=prf_pub
